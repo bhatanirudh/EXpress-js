@@ -1,0 +1,27 @@
+ body{
+    margin:0;
+ }
+ #con{
+    text-align: center;
+    margin-top: 25px;
+    color:grey;
+ }
+
+ ul{
+    list-style: none;
+ }
+ div{
+   text-align: center;
+   color: white;
+}
+
+a{
+color: red;
+}
+
+ #dynamic-contacts{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: blue;
+ }
